@@ -99,7 +99,7 @@ Backend-driven system for student services and coordination.
 ---
 
 ## 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-G06&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-G06&theme=default)
 
 ---
 
