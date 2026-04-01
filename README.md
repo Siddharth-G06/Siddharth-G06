@@ -100,9 +100,11 @@ Backend-driven system for student services and coordination.
 
 ## 📊 GitHub
 
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-G06&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-G06&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-G06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-G06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
