@@ -96,10 +96,6 @@ Backend-driven system for student services and coordination.
 * Scalable architecture design
 * Real-world deployment considerations
 
----
-
-## 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=Siddharth-G06&theme=default)
 
 ---
 
