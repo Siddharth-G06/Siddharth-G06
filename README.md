@@ -56,49 +56,6 @@ Building intelligent systems across machine learning, data, and backend architec
 
 ---
 
-## 🚀 Selected Work
-
-### 🧩 IKnowYou — Intelligent Relationship Memory System
-
-Hybrid AI system combining graph databases and vector embeddings for relationship-aware retrieval.
-
-* Graph-based knowledge modeling using Neo4j
-* Semantic retrieval using embeddings + LLM pipelines
-* Relationship resolution engine for structured inference
-* Voice-based logging using Whisper
-
----
-
-### ⛽ Fuel Blend Prediction (Shell.ai)
-
-High-performance regression system for chemical property prediction.
-
-* Feature engineering + ensemble modeling
-* Hyperparameter optimization
-* **90.8% accuracy | Global Rank: 53**
-
----
-
-### 🌾 FarmBuddy — Crop Intelligence System
-
-ML-powered disease detection and farmer assistance platform.
-
-* Multi-crop prediction models
-* Modular ML pipelines
-* Chatbot-based advisory system
-
----
-
-### 🏫 UniHive — Campus Platform
-
-Backend-driven system for student services and coordination.
-
-* Scalable architecture design
-* Real-world deployment considerations
-
-
----
-
 ## 📫 Reach
 
 * LinkedIn: https://linkedin.com/in/siddharthganesh06
